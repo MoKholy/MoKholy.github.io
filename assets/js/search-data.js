@@ -488,7 +488,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/MoKholy", "_blank");
+          window.open("https://www.linkedin.com/in/moelkholy", "_blank");
         },
       },{
         id: 'social-rss',
