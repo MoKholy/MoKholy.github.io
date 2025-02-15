@@ -2,57 +2,53 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Mohammed Elkholy
     - name: Languages
-      value: English, German
+      value: English, Arabic
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    # - title: PhD
+    #   institution: University of Zurich, Zurich, Switzerland
+    #   year: 1905
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
+    #     - title: Description 3.
+    #       contents:
+    #         - Sub-description 1.
+    #         - Sub-description 2.
+    - title: Bachelor of Science in Computer Science
+      institution: The American University in Cairo, Cairo, Egypt
+      year: 2024
+      GPA: 3.84/4.0
+      Minor: Mathematics
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Applied Scientist
+      institution: Microsoft AI, Cairo, Egypt
+      year: Nov 2024 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Part of the Cairo Shopping team at Microsoft AI.
+
+    - title: Full Stack Developer Intern
+      institution: Center of NanoElectronics and Devices at AUC, Cairo, Egypt
+      year: May 2024 - July 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Responsible for developing and maintaining frontend and backend of different websites for the center.
+        - Tech Stack includes C#, .NET, CSS, HTML, JavaScript, SQL, SqlServer.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: AI Research Assistant
+      institution: The American University in Cairo, Cairo, Egypt
+      year: Sept 2023 - March 2024
+      description:
+        - Developing a deep learning model for Obstructive Sleep Apnea prediction using Respiratory sensory data.
+        - Tech Stack includes Python, PyTorch, NumPy, Pandas, Matplotlib, Seaborn.
 
-    - title: Professor of Theoretical Physics
+    - title: NLP Research Intern
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
       year: 1911 - 1917
       description:
