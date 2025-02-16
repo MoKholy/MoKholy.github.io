@@ -33,7 +33,13 @@
       "startDate": "2020-09-01",
       "endDate": "2023-12-31",
       "score": "3.84/4.0",
-      "courses": ["Social Networks: Analysis and Mining", "Introduction to Machine Learning", "Practical Machine Deep Learning", "Graph Theory", "Stochastic Processes"]
+      "courses": [
+        "Social Networks: Analysis and Mining",
+        "Introduction to Machine Learning",
+        "Practical Machine Deep Learning",
+        "Graph Theory",
+        "Stochastic Processes"
+      ]
     }
   ],
   "publications": [
