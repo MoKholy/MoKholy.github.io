@@ -344,6 +344,7 @@ external_links:
     - _news/
     - _includes/news.liquid
     - _projects/?_project.md
+    - _pages/projects.md
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
