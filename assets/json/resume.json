@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Mohammed Elkholy",
     "label": "Applied Scientist",
     "image": "",
     "email": "mo.u.kholy@gmail.com",
@@ -44,45 +44,49 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Bridging the Gap: Efficient Cross-Lingual NER in Low-Resource Financial Domain",
+      "publisher": "ACL",
+      "releaseDate": "2025-01-31",
+      "url": "https://aclanthology.org/2025.finnlp-1.5/",
+      "summary": "We present a framework for efficient semi-supervised multilingual knowledge transfer for NER in the financial domain using semi-structured text."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Virtual Graph Neural Networks: A Novel Approach for Building-Agnostic Indoor Positioning System",
+      "publisher": "ACM",
+      "releaseDate": "2023-12-22",
+      "url": "https://dl.acm.org/doi/10.1145/3589132.3628374",
+      "summary": "I present a novel approach for building agnostic indoor positioning by utilizing common salient features in varying environments using Graph Neural Networks."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["Python", "C", "C++", "C#", "SQL", "Javascript", "Verilog"]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Scikit Learn", "PyTorch", "Transformers", "Tensorflow", "Keras", "OpenCV", "NetworkX", "PyG", "React", "NodeJS", ".NET"]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Docker", "Git", "AzureSQL", "MySQL", "SQLite", "SQLServer"]
+    },
+    {
+      "name": "Platforms",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Azure", "GCP", "Linux", "Windows"]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Arabic",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -94,38 +98,14 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "AI Alignment & Safety",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "keywords": ["Mechanistic Interpretability", "Super Alignment", "Training Dynamics"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "AI Reasoning",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["LLM Reasoning", "Causal Reasoning"]
     }
   ]
 }
