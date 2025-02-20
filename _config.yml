@@ -344,6 +344,8 @@ external_links:
     - _news/
     - _includes/news.liquid
     - _pages/projects.md
+    - _pages/teaching.md
+    - _pages/profiles.md
     - _projects/?_project.md
 
 # -----------------------------------------------------------------------------
