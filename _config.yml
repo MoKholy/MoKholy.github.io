@@ -343,6 +343,7 @@ external_links:
   exclude:
     - _news/
     - _includes/news.liquid
+    - _projects/?_project.md
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
